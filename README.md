@@ -17,4 +17,4 @@ It is a free software and is made for the educational purpose.
 
 ### requirements
 * This program is currently only for Windows 7 or higher.
-* It requires .NET framework 4.0 or higher installed.
+* It requires .NET framework 4.0 or higher installed. The current version of .NET framework can be checked by typing "wmic /namespace:\\root\cimv2 path win32_product where "name like '%%.NET%%'" get version" in commend line window.
