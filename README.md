@@ -12,4 +12,9 @@ It is a free software and is made for the educational purpose.
  * provide useful code snippets.
  * freeware !!
  
+### Introducing video clip
 - [http://www.youtube.com/watch?v=rv5raLcsPNs](http://www.youtube.com/watch?v=rv5raLcsPNs)
+
+### requirements
+* This program is currently only for Windows 7 or higher.
+* It requires .NET framework 4.0 or higher version.
