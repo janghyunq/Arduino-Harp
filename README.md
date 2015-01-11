@@ -17,4 +17,4 @@ It is a free software and is made for the educational purpose.
 
 ### requirements
 * This program is currently only for Windows 7 or higher.
-* It requires .NET framework 4.0 or higher version.
+* It requires .NET framework 4.0 or higher installed.
